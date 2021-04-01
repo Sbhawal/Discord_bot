@@ -1,0 +1,7 @@
+Intents
+Embed
+APScheduler
+discord.py
+requests
+pytessaract
+PIL
